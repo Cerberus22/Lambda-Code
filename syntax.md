@@ -28,12 +28,12 @@ endfunc
 
 
 # data types
-string <name> = "rick" <br>
-int <name> = 7 (32bits int) <br>
-long int <name> = 98739823544856 (64bits int) <br>
-float name = 0.1 <br>
-array arr[type,length] = 1,2,2,3,3,4 <br>
-const <data type> <name> = <var>
+string \<name> = "rick" <br>
+int \<name> = 7 (32bits int) <br>
+long int \<name> = 98739823544856 (64bits int) <br>
+float \<name> = 0.1 <br>
+array \<name>[type,length] = 1,2,2,3,3,4 <br>
+const \<data type> \<name> = \<var>
 
 
 # Conditional statements and iterations
